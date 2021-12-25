@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissXiaMartin
 - 👀 I’m interested in NFTs, art, fashion and service-based businesses.
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, and postgresSQL
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, and postgresql
 - 💞️ I’m looking to collaborate on innovative applications for high fashion brands or art collectives.
 - 📫 How to reach me ... linkedin.com/in/xia-martin/
 
